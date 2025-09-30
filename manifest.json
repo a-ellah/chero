@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "ابحث عن الكتب و المكتبات ، الصيدليات ، الأطباء ، المتاجر ، التخفيضات ، الخدمات ، الأسعار ، الأماكن السياحية ، الفنادق ، المطاعم ، وصفات الطعام ، الأسواق ، التطبيقات ، مواقع الويب ، إلخ .....",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
@@ -33,3 +33,4 @@
         }
     ]
 }
+
